@@ -1,4 +1,5 @@
 # NeuroRAD-FM: A Foundation Model for Neuro-Oncology with Distributionally Robust Training
+Authors: Moinak Bhattacharya, Annie Singh, Angelica P. Kurtz, Fabio M. Iwamoto, Prateek Prasanna, Gagandeep Singh
 
 # Train
 ```
